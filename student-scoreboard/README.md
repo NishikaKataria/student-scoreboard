@@ -35,9 +35,9 @@ App.css
 
 ## 💻 Run Project Locally
 
-👩‍💻 Developed By
-Nishika Kataria
-
 ```bash
 npm install
 npm run dev
+
+👩‍💻 Developed By
+Nishika Kataria
