@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #1b0008;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+}
+
+.header h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 52px;
+  margin-bottom: 30px;
+}
+
+.header span {
+  color: #ff3b6b;
+  text-shadow: 0 0 15px #ff3b6b;
+}
+
+.form-box,
+.table-box {
+  border: 2px solid #ff3b6b;
+  padding: 25px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  background: #2a000d;
+}
+
+h2 {
+  color: #ff5a82;
+  text-align: center;
+}
+
+.form-row {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  flex: 1;
+  padding: 12px;
+  background: #120006;
+  border: 1px solid #ff3b6b;
+  color: white;
+}
+
+button {
+  padding: 12px 20px;
+  background: #ff3b6b;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff174f;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ff3b6b;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+
+th {
+  color: #ff5a82;
+}
+
+.pass-text {
+  color: #00ff7f;
+  font-weight: bold;
+}
+
+.fail-text {
+  color: red;
+  font-weight: bold;
+}
