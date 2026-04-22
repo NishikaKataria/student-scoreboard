@@ -33,11 +33,12 @@ App.css
 - Students with score **40 or above** = Pass ✅
 - Students below **40** = Fail ❌
 
+👩‍💻 Developed By
+Nishika Kataria
+
 ## 💻 Run Project Locally
 
 ```bash
 npm install
 npm run dev
 
-👩‍💻 Developed By
-Nishika Kataria
